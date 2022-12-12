@@ -1,1 +1,1 @@
-# bookbot
+Example git project
